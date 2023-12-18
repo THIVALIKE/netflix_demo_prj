@@ -1,0 +1,93 @@
+body{
+    background: url(stylescss/media/bg5.jpg);
+}
+
+.nform{
+    width: 500px;
+    margin: 200px auto;
+    padding: 10px 20px 30px;
+    background-color: rgb(1, 0, 0.9);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+h5{
+    color: burlywood;
+}
+
+h2{
+    color: crimson;
+}
+
+
+.inputbtn{
+
+    width: 30%;
+    position: relative;
+    border: 10px 10px 10px 10px;
+    border-color: brown;
+}
+
+.radioinput{
+
+    accent-color: red;
+    transform: scale(1.5);
+    -ms-transform: scaleX(1.5);
+    -webkit-transform: scale(1);
+    
+    color: gray;
+    text-align:center;
+    align-items: center;
+    
+
+}
+
+.ipt{
+    
+    position: relative;
+    background: gainsboro;
+    margin-left: 35%;
+    padding: 20px 60px;
+    font-size: 1.5rem;
+    border-radius: 6px;
+    border-color: brown;
+}
+
+
+.btn{
+    width: 80%;
+    background: red;
+    font-size: 1rem;
+    font-weight: bold;
+    color: aliceblue;
+    margin-left: 120%;
+     padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 2px;
+    border: 1px solid red;
+}
+
+
+
+.pantbox{
+    color: chartreuse;
+    border: 10px 10px;
+    text-align: center;
+}
+
+.lk{
+    padding-top: 15px;
+    color: darkgoldenrod;
+}
+
+.lpara{
+    color: gray;
+}
+
+
+
+
+
